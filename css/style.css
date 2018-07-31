@@ -1,1 +1,7 @@
 /* add CSS class and element and selectors here */
+p {color:blue;}
+
+.example {
+  color:yellow;
+  font-size:14px;
+}
